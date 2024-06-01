@@ -1,0 +1,96 @@
+QUEATION : Which of the following are the advantages of using a DBMS?
+Option A : Data security
+Option B : Data abstraction
+Option C : Data integrity
+Option D : All of above
+Option D : All of above
+QUEATION : A byte corresponds to a cluster of how many bits?
+Option A : 8 bits
+Option B : 15 bits
+Option C : 25 bits
+Option D : 12 bits
+Option A : 8 bits
+QUEATION : Cpu is also referred to as?
+Option A : Micro chip
+Option B : Microprocessor
+Option C : Decoder
+Option D : coder
+Option B : Microprocessor
+QUEATION : The computer is a device and all other tools associated with it,are known as?
+Option A : Hardware
+Option B : Software
+Option C : Firmware
+Option D : Manware
+Option A : Hardware
+QUEATION : Among the folloing ,which is a network?
+Option A : MAN
+Option B : WAN
+Option C : LAN
+Option D : All of above
+Option D : All of above
+QUEATION : What does Fn mean in Fn key of the computer keyboard?
+Option A : Function
+Option B : Finish
+Option C : Final
+Option D : Fun
+Option A : Function
+Question : What does RAID stand for in computer storage systems?
+Option A: Random Access Integrated Drive
+Option B: Redundant Array of Independent Disks
+Option C: Rapid Access In-memory Database
+Option D: Remote Access Internet Directory
+Option B: Redundant Array of Independent Disks
+QUEATION : The full form of GB is?
+Option A : Giga Bar
+Option B : Giga Byte
+Option C : Giga bot
+Option D : Giga boot
+Option B : Giga Byte
+Question: Which programming language is commonly used for web development?
+Option A: Python
+Option B: Java
+Option C: HTML
+Option D: C++
+Option C: HTML
+Question: Which component of a computer system is responsible for storing permanent data even when the power is turned off?
+Option A: RAM
+Option B: CPU
+Option C: Hard Disk Drive (HDD)
+Option D: Cache Memory
+Option C: Hard Disk Drive (HDD)
+Question: What does the acronym "URL" stand for in the context of the internet?
+Option A: Uniform Resource Locator
+Option B: Universal Resource Language
+Option C: Unified Resource Link
+Option D: Unique Resource Locator
+Option A: Uniform Resource Locator
+Question: Which networking device operates at the data link layer of the OSI model and connects multiple devices within the same local area network (LAN)?
+Option A: Router
+Option B: Switch
+Option C: Modem
+Option D: Bridge
+Option B: Switch
+Question: What is the primary purpose of a CPU cache in a computer system?
+Option A: To store frequently accessed data and instructions for faster processing
+Option B: To manage input and output operations
+Option C: To regulate the flow of electrical signals within the CPU
+Option D: To provide additional storage space for user files
+Option A: To store frequently accessed data and instructions for faster processing
+Question: Which programming language is often used for developing web applications and server-side scripting?
+Option A: Java
+Option B: Python
+Option C: PHP
+Option D: C++
+Option C: PHP
+Question: What is the function of a GPU in a computer system?
+Option A: To perform complex mathematical calculations
+Option B: To manage memory allocation
+Option C: To handle graphics rendering and processing
+Option D: To control input and output devices
+Option C: To handle graphics rendering and processing
+Question: Which of the following is a type of volatile memory used in computers?
+Option A: ROM
+Option B: Cache memory
+Option C: HDD
+Option D: SSD
+Option B: Cache memory
